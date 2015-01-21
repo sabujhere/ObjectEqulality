@@ -1,0 +1,6 @@
+c:\users\sabuj\documents\visual studio 2013\Projects\ObjectEquality\ObjectEquality\bin\Debug\ObjectEquality.exe.config
+c:\users\sabuj\documents\visual studio 2013\Projects\ObjectEquality\ObjectEquality\bin\Debug\ObjectEquality.exe
+c:\users\sabuj\documents\visual studio 2013\Projects\ObjectEquality\ObjectEquality\bin\Debug\ObjectEquality.pdb
+c:\users\sabuj\documents\visual studio 2013\Projects\ObjectEquality\ObjectEquality\obj\Debug\ObjectEquality.csprojResolveAssemblyReference.cache
+c:\users\sabuj\documents\visual studio 2013\Projects\ObjectEquality\ObjectEquality\obj\Debug\ObjectEquality.exe
+c:\users\sabuj\documents\visual studio 2013\Projects\ObjectEquality\ObjectEquality\obj\Debug\ObjectEquality.pdb
